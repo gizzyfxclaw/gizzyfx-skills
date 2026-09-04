@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "generating-trading-signals",
+  "owner": "jeremylongshore",
+  "repo": "claude-code-plugins-plus-skills",
+  "path": "plugins/crypto/crypto-signal-generator/skills/generating-trading-signals",
+  "branch": "main",
+  "sha": "4041db618aa4d048407763d1ff6cc947bff42a87",
+  "source": "manual"
+}

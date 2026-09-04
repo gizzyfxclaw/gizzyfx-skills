@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "session-profiler",
+  "owner": "mahmoud20138",
+  "repo": "tradecraft",
+  "path": "plugins/tradecraft/skills/session-profiler",
+  "branch": "main",
+  "sha": "6415b09e4ea7721e96ae3ea7c5a2d853e66aa4c5",
+  "source": "manual"
+}
